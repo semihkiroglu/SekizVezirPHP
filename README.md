@@ -25,7 +25,7 @@ Bu betiğin başarıyla çalışması için şunlara dikkat edin:
 
 
 ## Kullanımı
-Çok basittir. index.php, func.php ve queen.png dosyalarını web server'ın public dizinine kopyalayıp index.php'yi JS destekli herhangi bir tarayıcıdan görüntülemeniz yeterlidir.
+Çok basittir. index.php, func.php ve queen.png dosyalarını web server'ın public dizinine kopyalayıp index.php'yi JS destekli herhangi bir tarayıcıdan görüntülemeniz yeterlidir. (isterseniz) Hesaplama hızını girmeyi ve tahta üzerinde ilk vezirin yerini seçmeyi unutmayın! :) 
 
 
 ## Yaşanabilecek Sorunlar
